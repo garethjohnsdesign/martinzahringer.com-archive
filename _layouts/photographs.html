@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="grid-x grid-padding-x grid-padding-y">
+<div class="small-3 cell">
+  {% assign photographs = site.photographs %}
+  <ul class="menu vertical">
+  {% for project in photographs %}
+      <li><a href="{{ project.url }}">{{project.title}}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+  
+<div class="small-9 cell">
+  {{content}}
+</div>
+</div>
