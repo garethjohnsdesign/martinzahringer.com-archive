@@ -2,6 +2,16 @@
 layout: photographs
 ---
 
-<div class="shrink cell">
-  <img src="{{ page.image }}">
-</div>
+  <div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play"false">
+    <div class="orbit-wrapper">
+      
+      <ul class="orbit-container">
+        {% for image in page.images %}
+        <li class="orbit-slide">
+        <img class="orbit-image" src="{{ image }}">
+        </li>
+        {% endfor %}
+      </ul>
+      
+    </div>
+  </div>
