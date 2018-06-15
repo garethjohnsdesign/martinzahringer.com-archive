@@ -2,15 +2,15 @@
 title: Martin Zähringer
 timezone: UTC
 collections:
+  photographs:
+    title: Photographs
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: false
-  photographs:
-    title: Photographs
-    output: true
 url: https://www.martinzahringer.com
 description: London-based photographer
 permalink: pretty
@@ -38,7 +38,7 @@ highlighter: rouge
 colophon: http://garethjohnsdesign.com
 company: Martin Zähringer
 email: 
-analytics:
+analytics: 
 logo: "/assets/img/logo.svg"
 per_page: 12
 date_format: "%d %B %Y"
