@@ -1,6 +1,6 @@
-# Only Jerkin
+# Martin Zahringer
 
-Site for Only Jerkin. Please go to [www.onlyjerkin.com](https://www.onlyjerkin.com) in case you want to take a look at the website.
+Site for Martin Zahringer. Please go to [www.martinzahringer.com](https://www.martinzahringer.com) in case you want to take a look at the website.
 
 * * *
 

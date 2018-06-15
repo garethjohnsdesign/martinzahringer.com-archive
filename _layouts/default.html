@@ -23,9 +23,9 @@ layout: compress
 <!-- End Navigation -->
   
 <!-- Content + Menu -->
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x">
   
-  <div class="small-12 medium-2 cell">
+  <div class="shrink cell">
     {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
     <ul class="menu vertical">
       {% for entry in site.data.navigation %}
@@ -51,7 +51,7 @@ layout: compress
     </ul>
   </div>
   
-  <div class="small-12 medium-10 cell">
+  <div class="auto cell">
     {{content}}
   </div>
   

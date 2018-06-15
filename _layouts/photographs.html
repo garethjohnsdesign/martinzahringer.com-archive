@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="grid-x grid-padding-x grid-padding-y">
+<div class="grid-x grid-padding-x">
 
-  <div class="small-3 cell">
+  <div class="shrink cell">
     {% assign photographs = site.photographs %}
     <ul class="menu vertical">
     {% for project in photographs %}
@@ -13,7 +13,7 @@ layout: default
     </ul>
   </div>
     
-  <div class="small-9 cell">
+  <div class="auto cell">
     {{content}}
   </div>
 
