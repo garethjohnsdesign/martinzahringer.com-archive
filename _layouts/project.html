@@ -2,16 +2,28 @@
 layout: photographs
 ---
 
+    
+<div class="grid-x grid-padding-x">
+  <div class="small-12 cell">
   <div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play"false">
     <div class="orbit-wrapper">
       
       <ul class="orbit-container">
         {% for image in page.images %}
         <li class="orbit-slide">
-          <img class="orbit-image" data-interchange="[{{ image | imgix_url: w: 300, fit: "max", auto: "format", auto: "compress", lossless: "true", q: 50, fit: "crop", dpr: 2}}, small]">
+          <img class="orbit-image" data-interchange="[{{ image | imgix_url: w: 600, fit: "max", auto: "format", auto: "compress", lossless: "true", q: 50, fit: "crop", dpr: 2}}, small]">
         </li>
         {% endfor %}
       </ul>
       
     </div>
   </div>
+  </div>
+</div>
+
+<div class="grid-x grid-padding-x grid-padding-y">
+  <div class="small-12 cell">
+    <div>Publication — {{page.publication}}</div>
+    <div>Stylist — {{page.stylist}}</div>
+  </div>
+</div>

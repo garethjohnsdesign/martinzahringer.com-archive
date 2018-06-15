@@ -40,7 +40,6 @@ body {
   background-color: $primary-color;
 }
 
-
 a {
   transition: $primary-transition;
 }
@@ -64,17 +63,6 @@ svg {
 
 .secondary-color {
   color: get-color(secondary);
-}
-
-// 3. Typography
-// -------------
-
-.uppercase {
-  text-transform: uppercase;
-}
-
-i, cite, em, var, address, dfn {
-  font-style: normal;
 }
 
 // 5. Loading

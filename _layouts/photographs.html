@@ -4,12 +4,30 @@ layout: default
 
 <div class="grid-x grid-padding-x">
 
-  <div class="shrink cell">
-    {% assign photographs = site.photographs %}
+  <div class="shrink cell show-for-medium">
+
+    {% for entry in site.photographs %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
     <ul class="menu vertical">
-    {% for project in photographs %}
-    <li><a href="{{ project.url }}">{{project.title}}</a></li>
-    {% endfor %}
+      {% for entry in site.photographs %}
+      {% if entry.url == current_page %}
+      {% assign current = ' class="active"' %}
+      {% else %}
+      {% assign current = null %}
+      {% endif %}
+      {% assign sublinks = entry.sublinks %}
+      {% if sublinks %}
+      <li{{ current }}>
+      <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+      <ul class="menu vertical">
+      {% for sublink in sublinks %}
+      <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+      {% endfor %}
+      </ul>
+      </li>
+      {% else %}
+      <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}" class="{{ entry.color }}">{{ entry.title }}</a></li>
+      {% endif %}
+      {% endfor %}
     </ul>
   </div>
     
@@ -18,3 +36,4 @@ layout: default
   </div>
 
 </div>
+
