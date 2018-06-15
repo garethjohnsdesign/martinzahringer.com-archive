@@ -8,7 +8,7 @@ layout: photographs
       <ul class="orbit-container">
         {% for image in page.images %}
         <li class="orbit-slide">
-        <img class="orbit-image" src="{{ image }}">
+          <img class="orbit-image" data-interchange="[{{ image | imgix_url: w: 300, fit: "max", auto: "format", auto: "compress", lossless: "true", q: 50, fit: "crop", dpr: 2}}, small]">
         </li>
         {% endfor %}
       </ul>
