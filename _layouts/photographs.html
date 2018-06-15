@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="grid-x grid-padding-x">
+
+  <div class="shrink cell">
+    {% assign photographs = site.photographs %}
+    <ul class="menu vertical">
+    {% for project in photographs %}
+    <li><a href="{{ project.url }}">{{project.title}}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+    
+  <div class="auto cell">
+    {{content}}
+  </div>
+
+</div>
