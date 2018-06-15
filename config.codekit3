@@ -135,7 +135,7 @@
 	"\/_layouts\/default.html": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/_layouts\/default.html",
 		"oF": 0
 		},
@@ -179,48 +179,6 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/_layouts\/publishing.html",
-		"oF": 0
-		},
-	"\/_photographs-old\/helen-lawrence.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_photographs-old\/helen-lawrence.markdown",
-		"oF": 0
-		},
-	"\/_photographs-old\/holiday.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_photographs-old\/holiday.markdown",
-		"oF": 0
-		},
-	"\/_photographs-old\/john-baker.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_photographs-old\/john-baker.markdown",
-		"oF": 0
-		},
-	"\/_photographs-old\/kim-noorda.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_photographs-old\/kim-noorda.markdown",
-		"oF": 0
-		},
-	"\/_photographs-old\/self-service.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_photographs-old\/self-service.markdown",
-		"oF": 0
-		},
-	"\/_photographs-old\/the-last-magazine.markdown": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/_photographs-old\/the-last-magazine.markdown",
 		"oF": 0
 		},
 	"\/_photographs\/love.markdown": {
@@ -7962,7 +7920,7 @@
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
 		"oF": 0,
 		"sC": 1,
@@ -9456,14 +9414,8 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/motion-ui\/dist\/motion-ui.js",
-			"position": 2,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/aos\/dist\/aos.js",
-			"position": 3,
+			"position": 2,
 			"type": 0
 			}
 		],
