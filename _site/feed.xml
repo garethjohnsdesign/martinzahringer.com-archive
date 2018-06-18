@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://www.martinzahringer.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.martinzahringer.com/" rel="alternate" type="text/html" /><updated>2018-06-18T15:27:34+00:00</updated><id>https://www.martinzahringer.com/</id><title type="html">Martin Zähringer</title><subtitle>London-based photographer</subtitle></feed>
+=======
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://www.martinzahringer.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.martinzahringer.com/" rel="alternate" type="text/html" /><updated>2018-06-18T09:50:17+00:00</updated><id>https://www.martinzahringer.com/</id><title type="html">Martin Zähringer</title><subtitle>London-based photographer</subtitle></feed>
+>>>>>>> fd0b3e906848b7f2c67ce2b1b38ffe8dafef3299
