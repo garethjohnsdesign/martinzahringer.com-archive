@@ -11,8 +11,8 @@ images:
 - "/uploads/john-baker-08.jpg"
 - "/uploads/john-baker-09.jpg"
 - "/uploads/john-baker-10.jpg"
-publication: Self Service
-stylist: Vanessa Coyle
+publication:
+stylist:
 layout: project
 ---
 

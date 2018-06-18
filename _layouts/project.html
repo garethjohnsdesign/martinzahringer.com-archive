@@ -10,18 +10,11 @@ layout: photographs
       {% for image in page.images %}
       <li class="orbit-slide" style="height: 600px">
       
-        <img data-src="{{ image | imgix_url: h: 300, auto: "format", auto: "compress", lossless: "true", q: 80, fit: "clip", dpr: 2}}" class="lazyload">
+        <img src="{{ image | imgix_url: h: 300, auto: "format", auto: "compress", lossless: "true", q: 80, fit: "clip", dpr: 2}}">
         
       </li>
       {% endfor %}
     </ul>
     
-  </div>
-</div>
-
-<div class="grid-x grid-padding-x grid-padding-y">
-  <div class="small-12 cell">
-    <div>Publication — {{page.publication}}</div>
-    <div>Stylist — {{page.stylist}}</div>
   </div>
 </div>
