@@ -10,9 +10,10 @@ layout: photographs
       <ul class="orbit-container">
         {% for image in page.images %}
         <li class="orbit-slide">
-          <img class="orbit-image" data-interchange="[{{ image | imgix_url: w: 400, fit: "max", auto: "format", auto: "compress", lossless: "true", q: 50, fit: "crop", dpr: 3}}, small]">
+          <img class="orbit-image" src="{{ image | imgix_url: w: 400, fit: "max", auto: "format", auto: "compress", lossless: "true", q: 50, fit: "crop", dpr: 2}}">
         </li>
         {% endfor %}
+<!--
         <li class="orbit-slide">
         <div class="grid-x grid-padding-x margin-bottom-1">
           <div class="small-12 cell">
@@ -21,6 +22,7 @@ layout: photographs
           </div>
         </div>
         </li>
+-->
       </ul>
       
     </div>
