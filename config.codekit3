@@ -9624,39 +9624,33 @@
 "manualImportLinks": {
 	"\/assets\/js\/app.js": [
 		{
-			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/bower_components\/turbolinks5\/dist\/turbolinks.js",
-			"position": 0,
-			"type": 0
-			},
-		{
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/bower_components\/jquery\/dist\/jquery.js",
-			"position": 1,
+			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/foundation-sites\/dist\/js\/foundation.js",
-			"position": 2,
+			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/aos\/dist\/aos.js",
-			"position": 3,
+			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/motion-ui\/motion-ui.js",
-			"position": 4,
+			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/bower_components\/what-input\/dist\/what-input.js",
-			"position": 5,
+			"position": 4,
 			"type": 0
 			}
 		],
