@@ -3,14 +3,14 @@ layout: photographs
 ---
 
 
-<div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play="false">
+<div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play="false" data-aos="fade-in">
   <div class="orbit-wrapper">
     
     <ul class="orbit-container" style="height: 600px">
       {% for image in page.images %}
       <li class="orbit-slide" style="height: 600px">
       
-        <img src="{{ image | imgix_url: h: 300, auto: "format", auto: "compress", lossless: "true", q: 80, fit: "clip", dpr: 2}}">
+        <img src="{{ image | imgix_url: h: 300, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 2}}">
         
       </li>
       {% endfor %}
