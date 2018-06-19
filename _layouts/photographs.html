@@ -29,6 +29,20 @@ layout: default
       {% endif %}
       {% endfor %}
     </ul>
+    
+    {% if page.publication or page.stylist %}
+    <div class="padding-top-1" data-aos="fade-in">
+    {% if page.publication %}
+    <div>Publication</div>
+    <div>{{page.publication}}</div>
+    {% endif %}
+    {% if page.stylist %}
+    <div>Stylist</div>
+    <div>{{page.stylist}}</div>
+    </div>
+    {% endif %}
+    {% endif %}
+    
   </div>
     
   <div class="auto cell">

@@ -2,28 +2,18 @@
 layout: photographs
 ---
 
-<div class="grid-x">
-  <div class="small-12 medium-12 large-8 xlarge-8 xxlarge-7 cell">
-  <div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play="false">
-    <div class="orbit-wrapper">
+<div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play="false" data-aos="fade-in">
+  <div class="orbit-wrapper">
+    
+    <ul class="orbit-container" style="height: 600px">
+      {% for image in page.images %}
+      <li class="orbit-slide" style="height: 600px">
       
-      <ul class="orbit-container">
-        {% for image in page.images %}
-        <li class="orbit-slide">
-          <img class="orbit-image" data-interchange="[{{ image | imgix_url: w: 400, fit: "max", auto: "format", auto: "compress", lossless: "true", q: 50, fit: "crop", dpr: 3}}, small]">
-        </li>
-        {% endfor %}
-        <li class="orbit-slide">
-        <div class="grid-x grid-padding-x margin-bottom-1">
-          <div class="small-12 cell">
-            <div>Publication — {{page.publication}}</div>
-            <div>Stylist — {{page.stylist}}</div>
-          </div>
-        </div>
-        </li>
-      </ul>
-      
-    </div>
-  </div>
+        <img src="{{ image | imgix_url: h: 300, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 2}}">
+        
+      </li>
+      {% endfor %}
+    </ul>
+    
   </div>
 </div>
