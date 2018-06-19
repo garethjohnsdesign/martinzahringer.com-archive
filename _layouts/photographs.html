@@ -4,7 +4,7 @@ layout: default
 
 <div class="grid-x grid-padding-x">
 
-  <div class="shrink cell show-for-medium">
+  <div class="shrink cell">
 
     {% for entry in site.photographs %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
     <ul class="menu vertical">
@@ -29,19 +29,6 @@ layout: default
       {% endif %}
       {% endfor %}
     </ul>
-    
-    {% if page.publication or page.stylist %}
-    <div class="padding-top-1">
-    {% if page.publication %}
-    <div>Publication</div>
-    <div>{{page.publication}}</div>
-    {% endif %}
-    {% if page.stylist %}
-    <div>Stylist</div>
-    <div>{{page.stylist}}</div>
-    </div>
-    {% endif %}
-    {% endif %}
     
   </div>
     
