@@ -57,34 +57,6 @@ svg {
   outline: 0;
 }
 
-.primary-color {
-  color: get-color(primary);
-}
-
-.secondary-color {
-  color: get-color(secondary);
-}
-
-// 5. Loading
-// ------
-
-.loader {
-  z-index: 3;
-  position: fixed;
-  background: $white;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%; 
-  opacity: 1;
-  transition: $primary-transition;
-  visibility: visible; 
-  &.loaded {
-    opacity: 0;
-    visibility: hidden;
-  }
-}
-
 // 6. Navigation
 // ------
 
@@ -95,16 +67,11 @@ svg {
   }
 }
 
-/*
-.orbit-container {
-  max-height: 80vh;
-  width: auto;
+.content__menu {
+  padding-right: 5rem;
 }
-*/
 
 /*
-.orbit-image {
-  max-height: 80vh;
-  width: auto;
+.orbit-slide img {
 }
 */
