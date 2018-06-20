@@ -10,22 +10,16 @@ layout: compress
 <!-- End Head -->
 
 <body>
-  
-<!-- Off Canvas Navigation -->
-<div class="off-canvas position-right" id="offCanvas" data-off-canvas data-transition="overlap">
-{% include offcanvas.html %}
-</div>
-<!-- End Off Canvas Navigation --> 
 
-<div class="off-canvas-content {{page.layout | slugify}}" data-off-canvas-content>
+
 <!-- Navigation -->
 {% include navigation.html %}
 <!-- End Navigation -->
   
 <!-- Content + Menu -->
-<div class="grid-x grid-padding-x">
+<div class="grid-x grid-padding-x margin-top-3">
   
-  <div class="shrink cell">
+  <div class="shrink cell margin-right-3">
     {% for entry in site.data.navigation %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
     <ul class="menu vertical">
       {% for entry in site.data.navigation %}
@@ -54,13 +48,9 @@ layout: compress
   <div class="auto cell">
     {{content}}
   </div>
-  
+
 </div>
 <!-- End Content + Menu -->
-
-
-
-</div>
 
 <!-- Scripts -->
 {% include scripts.html %}
