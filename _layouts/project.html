@@ -7,13 +7,9 @@ layout: photographs
     
     <ul class="orbit-container" style="height: 800px; width: 800px">
       {% for image in page.images %}
-      <li class="orbit-slide text-center" style="height: 600px; width: 800px">
-        
-        <div class="grid-y align-center" style="height: 100%">
-          <div class="shrink cell text-center">
-            <img src="{{ image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 1}}">
-          </div>
-        </div>
+      <li class="orbit-slide" style="height: 600px; width: 800px">
+      
+       <img src="{{ image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 1}}">
         
       </li>
       {% endfor %}

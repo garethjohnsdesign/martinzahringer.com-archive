@@ -4,7 +4,7 @@ layout: default
 
 <div class="grid-x grid-padding-x">
 
-  <div class="shrink cell padding-right-3">
+  <div class="shrink cell" style="padding-right: 15rem;">
 
     {% for entry in site.photographs %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
     <ul class="menu vertical">
@@ -32,7 +32,7 @@ layout: default
     
   </div>
     
-  <div class="auto cell padding-left-2">
+  <div class="auto cell">
     {{content}}
   </div>
 
