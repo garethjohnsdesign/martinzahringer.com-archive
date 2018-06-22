@@ -5,12 +5,12 @@ collections:
   photographs:
     title: Photographs
     output: true
+  posts:
+    title: Posts
+    output: true
   publishing:
     title: Publishing
     output: true
-  posts:
-    title: Posts
-    output: false
   uploads:
     title: Uploads
     output: false
