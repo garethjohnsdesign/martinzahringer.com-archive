@@ -2,4 +2,10 @@
 layout: default
 ---
 
-Publishing Stuff
+{% for publication in site.publishing %}
+<div class="grid-x grid-padding-x grid-padding-y">
+ <div class="shrink cell">
+   <img src="{{ publication.image | imgix_url: w: 300, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 1}}">
+ </div>
+</div>
+{% endfor %}
