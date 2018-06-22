@@ -4,10 +4,10 @@ layout: default
 
 <div class="grid-x grid-padding-x">
 
-  <div class="shrink cell" style="padding-right: 17.5rem;">
+  <div class="shrink cell">
 
     {% for entry in site.photographs %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
-    <ul class="menu vertical">
+    <ul class="menu vertical photographs__menu">
       {% for entry in site.photographs %}
       {% if entry.url == current_page %}
       {% assign current = ' class="active"' %}

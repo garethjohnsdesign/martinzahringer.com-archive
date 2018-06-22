@@ -71,7 +71,10 @@ svg {
   padding-right: 5rem;
 }
 
-/*
-.orbit-slide img {
+.photographs__menu {
+  padding-right: 17.5rem;
 }
-*/
+
+.orbit-slide:not(.is-active) {
+  display: none; 
+}
