@@ -72,7 +72,12 @@ svg {
 }
 
 .photographs__menu {
-  padding-right: 17.5rem;
+  @include breakpoint(small) {
+	padding-right: 5rem;
+  }
+  @include breakpoint(medium) {
+	padding-right: 17.5rem;
+  }
 }
 
 .orbit-slide:not(.is-active) {
