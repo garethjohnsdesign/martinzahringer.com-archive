@@ -6,7 +6,7 @@ layout: default
 <div class="grid-x grid-padding-x margin-bottom-2">
  <div class="shrink cell">
    <div><img src="{{ publication.image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 1}}"></div>
-   <div class="padding-top-1">{{ publication.title }} {{ publication.date }} <a href="{{ publicastion.buy-link }}{{ entry.url }}">Buy</a></div>
+   <div class="padding-top-1">{{ publication.title }}, {{ publication.date | date: "%B %Y" }} <a href="{{ publication.buy-link }}{{ entry.url }}">BUY</a></div>
  </div>
 </div>
 {% endfor %}
