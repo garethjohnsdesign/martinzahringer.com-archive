@@ -195,11 +195,58 @@
 		"oAP": "\/_photographs\/kim-noorda.markdown",
 		"oF": 0
 		},
+	"\/_publishing\/is-in-town-five.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_publishing\/is-in-town-five.markdown",
+		"oF": 0
+		},
+	"\/_publishing\/is-in-town-four.markdown": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_publishing\/is-in-town-four.markdown",
+		"oF": 0
+		},
 	"\/_site": {
 		"ft": 65536,
 		"oA": 1,
 		"oAP": "\/build\/_site",
 		"oF": 0
+		},
+	"\/_uploads\/IIT5_Csepi_Thumbnail.jpg": {
+		"ft": 16384,
+		"iS": 95457,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/IIT5_Csepi_Thumbnail.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/is-in-town-five.jpg": {
+		"ft": 16384,
+		"iS": 148461,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/is-in-town-five.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_uploads\/is-in-town-four.jpg": {
+		"ft": 16384,
+		"iS": 149308,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/_uploads\/is-in-town-four.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/_uploads\/john-baker-01.jpg": {
 		"ft": 16384,
