@@ -14,6 +14,19 @@ collections:
   uploads:
     title: Uploads
     output: false
+defaults:
+- scope:
+    path: ''
+    type: photographs
+  values:
+    images:
+    - 
+- scope:
+    path: ''
+    type: publishing
+  values:
+    image: 
+    buy-link: 
 url: https://www.martinzahringer.com
 description: London-based photographer
 permalink: pretty
