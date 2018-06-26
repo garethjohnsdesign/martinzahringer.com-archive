@@ -15,5 +15,6 @@ images:
 - "/uploads/SelfServiceGoSeesMZ-5.jpg"
 - "/uploads/SelfServiceGoSeesMZ-4.jpg"
 - "/uploads/SelfServiceGoSeesMZ-3.jpg"
+layout: project
 ---
 

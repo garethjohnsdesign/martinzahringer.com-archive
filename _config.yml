@@ -21,6 +21,7 @@ defaults:
   values:
     images:
     - 
+    layout: project
 - scope:
     path: ''
     type: publishing
