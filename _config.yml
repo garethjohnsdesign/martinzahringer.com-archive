@@ -18,15 +18,15 @@ defaults:
 - scope:
     path: ''
     type: photographs
-  values: 
+  values:
     images:
     - 
 - scope:
     path: ''
     type: publishing
-  values: 
-    image:
-    buy-link:
+  values:
+    image: 
+    buy-link: 
 url: https://www.martinzahringer.com
 description: London-based photographer
 permalink: pretty
