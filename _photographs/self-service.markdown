@@ -1,5 +1,5 @@
 ---
-title: Self Service
+title: The Last Magazine, AV Robertson
 date: 2018-06-26 14:24:00 Z
 tags:
 - the last magazine
