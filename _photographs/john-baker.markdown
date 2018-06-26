@@ -11,8 +11,6 @@ images:
 - "/uploads/john-baker-08.jpg"
 - "/uploads/john-baker-09.jpg"
 - "/uploads/john-baker-10.jpg"
-publication: 
-stylist: 
 layout: project
 ---
 

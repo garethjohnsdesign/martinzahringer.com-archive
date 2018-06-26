@@ -10,8 +10,6 @@ images:
 - "/uploads/kim-noorda-07.jpg"
 - "/uploads/kim-noorda-08.jpg"
 - "/uploads/kim-noorda-09.jpg"
-publication: Self Service
-stylist: Vanessa Coyle
 layout: project
 ---
 
