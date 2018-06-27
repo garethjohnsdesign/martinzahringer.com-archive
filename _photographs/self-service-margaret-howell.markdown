@@ -1,20 +1,24 @@
 ---
 title: Self Service, Margaret Howell
-date: 2018-06-26 14:42:00 Z
+date: 2018-06-27 13:10:00 Z
+tags:
+- Self
+- Service
+- Margaret
+- HOwell
 images:
-- "/uploads/SelfServiceGoSeesMZ-22.jpg"
-- "/uploads/SelfServiceGoSeesMZ-21.jpg"
-- "/uploads/SelfServiceGoSeesMZ-20.jpg"
-- "/uploads/SelfServiceGoSeesMZ-19.jpg"
-- "/uploads/SelfServiceGoSeesMZ-17.jpg"
-- "/uploads/SelfServiceGoSeesMZ-14.jpg"
-- "/uploads/SelfServiceGoSeesMZ-13.jpg"
-- "/uploads/SelfServiceGoSeesMZ-11.jpg"
-- "/uploads/SelfServiceGoSeesMZ-9.jpg"
-- "/uploads/SelfServiceGoSeesMZ-8.jpg"
-- "/uploads/SelfServiceGoSeesMZ-5.jpg"
-- "/uploads/SelfServiceGoSeesMZ-4.jpg"
-- "/uploads/SelfServiceGoSeesMZ-3.jpg"
-layout: project
+- "/uploads/Self-Service-Margaret-Howell-03.jpg"
+- "/uploads/Self-Service-Margaret-Howell-04.jpg"
+- "/uploads/Self-Service-Margaret-Howell-05.jpg"
+- "/uploads/Self-Service-Margaret-Howell-08.jpg"
+- "/uploads/Self-Service-Margaret-Howell-09.jpg"
+- "/uploads/Self-Service-Margaret-Howell-13.jpg"
+- "/uploads/Self-Service-Margaret-Howell-11.jpg"
+- "/uploads/Self-Service-Margaret-Howell-14.jpg"
+- "/uploads/Self-Service-Margaret-Howell-17.jpg"
+- "/uploads/Self-Service-Margaret-Howell-19.jpg"
+- "/uploads/Self-Service-Margaret-Howell-20.jpg"
+- "/uploads/Self-Service-Margaret-Howell-21.jpg"
+- "/uploads/Self-Service-Margaret-Howell-22.jpg"
 ---
 
