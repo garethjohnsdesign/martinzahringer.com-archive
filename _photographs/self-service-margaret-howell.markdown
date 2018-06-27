@@ -14,7 +14,5 @@ images:
 - "/uploads/Self-Service-Margaret-Howell-20.jpg"
 - "/uploads/Self-Service-Margaret-Howell-22.jpg"
 - "/uploads/Self-Service-Margaret-Howell-21.jpg"
-- 
-- 
 ---
 
