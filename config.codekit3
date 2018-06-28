@@ -272,6 +272,12 @@
 		"oAP": "\/_publishing\/is-in-town-four.markdown",
 		"oF": 0
 		},
+	"\/_site": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/_site",
+		"oF": 0
+		},
 	"\/_uploads\/av-robertson-01.jpg": {
 		"ft": 16384,
 		"iS": 2646206,
