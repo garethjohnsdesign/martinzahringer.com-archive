@@ -9,7 +9,7 @@ layout: photographs
       {% for image in page.images %}
       <li class="orbit-slide" style="height: 600px; width: 2000px">
       
-<img class="orbit-image" src="{{ image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 50, fit: "clip", dpr: 3}}">
+<img class="orbit-image" src="{{ image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 40, fit: "clip", dpr: 2}}">
         
       </li>
       {% endfor %}
