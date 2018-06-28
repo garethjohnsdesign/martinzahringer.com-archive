@@ -5,11 +5,11 @@ layout: photographs
 <div class="orbit" role="region" data-orbit data-use-m-u-i="false" data-next-class="orbit-slide" data-auto-play="false">
   <div class="orbit-wrapper">
     
-    <ul class="orbit-container" style="height: 800px; width: 800px">
+    <ul class="orbit-container">
       {% for image in page.images %}
-      <li class="orbit-slide" style="height: 600px; width: 800px">
+      <li class="orbit-slide" style="height: 600px; width: 2000px">
       
-       <img src="{{ image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 90, fit: "clip", dpr: 1}}">
+<img class="orbit-image" src="{{ image | imgix_url: h: 600, w: 600, auto: "format", auto: "compress", lossless: "true", q: 50, fit: "clip", dpr: 3}}">
         
       </li>
       {% endfor %}
