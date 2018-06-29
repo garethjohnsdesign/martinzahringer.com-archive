@@ -63,14 +63,11 @@ svg {
 
 .navigation {
   @include xy-gutters($gutter-type: padding, $gutter-position: top right bottom left);
-  .cell {
-	z-index: 14; 
-  }
 }
 
 .content__menu {
   @include breakpoint(small) {
-	padding-right: 5rem;
+	padding-right: 8rem;
   }
   @include breakpoint(medium) {
 	padding-right: 8rem;
@@ -79,35 +76,16 @@ svg {
 
 .photographs__menu {
   @include breakpoint(small) {
-	padding-right: 5rem;
+	padding-right: 10.5rem;
   }
   @include breakpoint(medium) {
-	padding-right: 17.5rem;
+	padding-right: 10.5rem;
   }
 }
 
 .orbit-slide:not(.is-active) {
   display: none; 
 }
-
-/*
-.orbit-wrapper {
-  width: 600px;
-  height: 600px;
-  background-color: green;
-}
-
-.orbit-container {
-  width: 100%;
-  height: 100%;
-  background-color: red;
-}
-
-.orbit-slide {
-  width: 100%;
-  height: 100%;
-}
-*/
 
 .orbit-image {
  width: auto;
