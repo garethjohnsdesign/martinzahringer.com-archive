@@ -15,5 +15,14 @@ images:
 - "/uploads/charli-cohen-ss18-14.jpg"
 - "/uploads/charli-cohen-ss18-15.jpg"
 - "/uploads/charli-cohen-ss18-16.jpg"
+- "/uploads/charli-cohen-ss18-23-73f3ff.jpg"
+- "/uploads/charli-cohen-ss18-24-dfaca1.jpg"
+- "/uploads/charli-cohen-ss18-27-091481.jpg"
+- "/uploads/charli-cohen-ss18-27-091481.jpg"
+- "/uploads/charli-cohen-ss18-32-5276eb.jpg"
+- "/uploads/charli-cohen-ss18-34-5379a0.jpg"
+- "/uploads/charli-cohen-ss18-38.jpg"
+- "/uploads/charli-cohen-ss18-40.jpg"
+- "/uploads/charli-cohen-ss18-43.jpg"
 ---
 
