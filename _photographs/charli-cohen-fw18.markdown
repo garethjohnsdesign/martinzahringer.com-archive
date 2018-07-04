@@ -15,5 +15,7 @@ images:
 - "/uploads/charli-cohen-fw18-13.jpg"
 - "/uploads/charli-cohen-fw18-15.jpg"
 - "/uploads/charli-cohen-fw18-20.jpg"
+- "/uploads/charli-cohen-cc2s-46.jpg"
+- "/uploads/charli-cohen-cc2s-44.jpg"
 ---
 
