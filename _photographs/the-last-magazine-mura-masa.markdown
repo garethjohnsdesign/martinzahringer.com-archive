@@ -1,12 +1,12 @@
 ---
 title: The Last Magazine Mura Masa
-position: 14
+position: 8
 images:
-- "/uploads/the-last-magazine-mura-masa-01.jpg"
-- "/uploads/the-last-magazine-mura-masa-02.jpg"
-- "/uploads/the-last-magazine-mura-masa-03.jpg"
-- "/uploads/the-last-magazine-mura-masa-04.jpg"
-- "/uploads/the-last-magazine-mura-masa-05.jpg"
-- "/uploads/the-last-magazine-mura-masa-06.jpg"
+- "/uploads/the-last-magazine-mura-masa-rev-01.jpg"
+- "/uploads/the-last-magazine-mura-masa-rev-02.jpg"
+- "/uploads/the-last-magazine-mura-masa-rev-03.jpg"
+- "/uploads/the-last-magazine-mura-masa-rev-04.jpg"
+- "/uploads/the-last-magazine-mura-masa-rev-05.jpg"
+- "/uploads/the-last-magazine-mura-masa-rev-06.jpg"
 ---
 
