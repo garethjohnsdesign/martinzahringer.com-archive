@@ -10,6 +10,5 @@ images:
 - "/uploads/barbara-casasola-aw16-09.jpg"
 - "/uploads/barbara-casasola-aw16-13.jpg"
 - "/uploads/barbara-casasola-aw16-06.jpg"
-- "/uploads/barbara-casasola-aw16-15.jpg"
 ---
 
