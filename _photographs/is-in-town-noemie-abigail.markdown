@@ -1,6 +1,6 @@
 ---
 title: Is in Town Noemie Abigail
-position: 4
+position: 3
 images:
 - "/uploads/is-in-town-noemie-abigail-rev-01.jpg"
 - "/uploads/is-in-town-noemie-abigail-rev-02.jpg"
