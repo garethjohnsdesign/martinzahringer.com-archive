@@ -1,6 +1,6 @@
 ---
 title: The Last Magazine Richard Malone
-position: 3
+position: 4
 images:
 - "/uploads/the-last-magazine-richard-malone-rev-01.jpg"
 - "/uploads/the-last-magazine-richard-malone-rev-02.jpg"

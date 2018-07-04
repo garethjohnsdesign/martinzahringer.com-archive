@@ -1,6 +1,6 @@
 ---
 title: Barbara Casasola AW16
-position: 9
+position: 8
 images:
 - "/uploads/barbara-casasola-aw16-rev-02.jpg"
 - "/uploads/barbara-casasola-aw16-rev-03.jpg"
