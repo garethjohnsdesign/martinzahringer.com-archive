@@ -5,12 +5,12 @@ layout: default
 <div class="grid-x grid-padding-x">
 
   <div class="shrink cell">
-
-    {% for entry in site.photographs %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
+    {% assign photographs-meta = site.photographs | sort: 'position' %}
+    {% for entry in photographs-meta %}{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}{% assign current_page = fullurl %}{% break %}{% elsif page.url contains fullurl %}{% assign current_page = fullurl %}{% endif %}{% endfor %}
     <ul class="menu vertical photographs__menu">
-      {% for entry in site.photographs %}
+      {% for entry in photographs-meta %}
       {% if entry.url == current_page %}
-      {% assign current = ' class="active"' %}
+      {% assign current = 'class="active"' %}
       {% else %}
       {% assign current = null %}
       {% endif %}
@@ -24,7 +24,7 @@ layout: default
       {% endfor %}
       </ul>
       </li>
-      {% else %}
+      {% else | sort: 'position' %}
       <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
       {% endif %}
       {% endfor %}
