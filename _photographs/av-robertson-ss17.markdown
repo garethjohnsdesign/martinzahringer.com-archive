@@ -1,6 +1,7 @@
 ---
 title: AV Robertson SS17
 date: 2018-06-27 13:10:00 Z
+position: 4
 images:
 - "/uploads/av-robertson-01.jpg"
 - "/uploads/av-robertson-02.jpg"

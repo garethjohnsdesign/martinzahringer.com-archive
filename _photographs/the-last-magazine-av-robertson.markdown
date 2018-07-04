@@ -1,5 +1,6 @@
 ---
 title: The Last Magazine AV Robertson
+position: 3
 images:
 - "/uploads/the-last-magazine-av-robertson-01.jpg"
 - "/uploads/the-last-magazine-av-robertson-02.jpg"

@@ -1,5 +1,6 @@
 ---
 title: Is in Town SS18 Girls
+position: 13
 images:
 - "/uploads/is-in-town-ss18-new-faces-01.jpg"
 - "/uploads/is-in-town-ss18-new-faces-02.jpg"
