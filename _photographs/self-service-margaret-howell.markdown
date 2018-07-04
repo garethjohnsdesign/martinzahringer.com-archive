@@ -1,5 +1,6 @@
 ---
 title: Self Service Margaret Howell
+position: 0
 images:
 - "/uploads/self-service-margaret-howell-01.jpg"
 - "/uploads/self-service-margaret-howell-02.jpg"

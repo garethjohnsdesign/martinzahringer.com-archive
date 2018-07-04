@@ -1,5 +1,6 @@
 ---
 title: Self Service Dior Homme
+position: 1
 images:
 - "/uploads/self-service-dior-homme-01.jpg"
 - "/uploads/self-service-dior-homme-02.jpg"

@@ -1,5 +1,6 @@
 ---
 title: Charli Cohen FW18
+position: 6
 images:
 - "/uploads/charli-cohen-fw18-01.jpg"
 - "/uploads/charli-cohen-fw18-02.jpg"

@@ -1,5 +1,6 @@
 ---
 title: Charli Cohen SS18
+position: 7
 images:
 - "/uploads/charli-cohen-ss18-01.jpg"
 - "/uploads/charli-cohen-ss18-02.jpg"

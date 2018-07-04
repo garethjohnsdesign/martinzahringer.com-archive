@@ -1,5 +1,6 @@
 ---
 title: Helen Lawrence SS17
+position: 9
 images:
 - "/uploads/helen-lawrence-ss17-01.jpg"
 - "/uploads/helen-lawrence-ss17-02.jpg"
