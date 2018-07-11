@@ -1,6 +1,7 @@
 ---
 title: Margaret Howell, Lookbook SS18
 date: 2018-07-11 16:58:00 Z
+position: 0
 images:
 - "/uploads/margaret-howell-mainline-ss18-rev2-01.jpg"
 - "/uploads/margaret-howell-mainline-ss18-rev2-02.jpg"
