@@ -1,5 +1,5 @@
 ---
-title: Self Service Margaret Howell
+title: Self Service, Margaret Howell
 position: 1
 images:
 - "/uploads/self-service-margaret-howell-rev-05.jpg"
