@@ -1,5 +1,5 @@
 ---
-title: Is in town special, New faces of SS18
+title: Is in Town Special, New Faces of SS18
 date: 2018-07-11 10:37:00 Z
 images:
 - "/uploads/is-in-town-ss-18-new-faces-02.jpg"
