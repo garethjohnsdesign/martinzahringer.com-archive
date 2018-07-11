@@ -1,5 +1,5 @@
 ---
-title: Is in Town Danielle Lashley
+title: Is in Town, Danielle Lashley
 position: 0
 images:
 - "/uploads/is-in-town-danielle-lashley-rev-07.jpg"
