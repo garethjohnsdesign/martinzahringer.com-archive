@@ -1,5 +1,5 @@
 ---
-title: Margaret Howell, Lookbook SS17
+title: Margaret Howell, Lookbook SS18
 date: 2018-07-11 19:04:00 Z
 images:
 - "/uploads/margaret-howell-ss18-rev3-01.jpg"
