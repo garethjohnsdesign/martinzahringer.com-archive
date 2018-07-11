@@ -2,13 +2,13 @@
 title: Is in Town Danielle Lashley
 position: 0
 images:
-- "/uploads/is-in-town-danielle-lashley-rev-01.jpg"
+- "/uploads/is-in-town-danielle-lashley-rev-07.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-02.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-03.jpg"
+- "/uploads/is-in-town-danielle-lashley-rev-01.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-04.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-05.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-06.jpg"
-- "/uploads/is-in-town-danielle-lashley-rev-07.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-08.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-09.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-10.jpg"
