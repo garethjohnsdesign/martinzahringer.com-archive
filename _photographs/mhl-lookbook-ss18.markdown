@@ -1,7 +1,7 @@
 ---
 title: MHL, Lookbook SS18
 date: 2018-07-11 17:05:00 Z
-position: 3
+position: 2
 images:
 - "/uploads/mhl-ss18-rev2-01.jpg"
 - "/uploads/mhl-ss18-rev2-02.jpg"
