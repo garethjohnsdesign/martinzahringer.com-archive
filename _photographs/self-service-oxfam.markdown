@@ -1,5 +1,5 @@
 ---
-title: Self Service Oxfam
+title: Self Service, Oxfam
 position: 6
 images:
 - "/uploads/self-service-oxfam-rev-01.jpg"
