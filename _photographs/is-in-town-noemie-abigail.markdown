@@ -1,5 +1,5 @@
 ---
-title: Is in Town Noemie Abigail
+title: Is in Town, Noemie Abigail
 position: 3
 images:
 - "/uploads/is-in-town-noemie-abigail-rev-01.jpg"
