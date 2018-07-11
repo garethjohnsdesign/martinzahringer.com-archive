@@ -2,9 +2,9 @@
 title: Self Service Margaret Howell
 position: 1
 images:
+- "/uploads/self-service-margaret-howell-rev-05.jpg"
 - "/uploads/self-service-margaret-howell-rev-03.jpg"
 - "/uploads/self-service-margaret-howell-rev-04.jpg"
-- "/uploads/self-service-margaret-howell-rev-05.jpg"
 - "/uploads/self-service-margaret-howell-rev-08.jpg"
 - "/uploads/self-service-margaret-howell-rev-09.jpg"
 - "/uploads/self-service-margaret-howell-rev-11.jpg"
