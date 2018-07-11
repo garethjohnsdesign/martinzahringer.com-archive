@@ -1,6 +1,7 @@
 ---
 title: Margaret Howell, Lookbook AW17
 date: 2018-07-11 14:36:00 Z
+position: 0
 images:
 - "/uploads/margaret-howell-aw17-01.jpg"
 - "/uploads/margaret-howell-aw17-02.jpg"

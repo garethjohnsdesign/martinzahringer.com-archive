@@ -1,7 +1,7 @@
 ---
 title: Is in Town Special, New Faces of SS18
 date: 2018-07-11 10:37:00 Z
-position: 0
+position: 1
 images:
 - "/uploads/is-in-town-ss-18-new-faces-02.jpg"
 - "/uploads/is-in-town-ss-18-new-faces-01.jpg"
