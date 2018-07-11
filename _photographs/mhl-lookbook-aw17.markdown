@@ -1,6 +1,7 @@
 ---
 title: MHL, Lookbook AW17
 date: 2018-07-11 17:01:00 Z
+position: 6
 images:
 - "/uploads/mhl-aw17-rev2-01.jpg"
 - "/uploads/mhl-aw17-rev2-02.jpg"
