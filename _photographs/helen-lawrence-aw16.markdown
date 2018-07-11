@@ -1,5 +1,5 @@
 ---
-title: Helen Lawrence AW16
+title: Helen Lawrence, AW16
 position: 7
 images:
 - "/uploads/helen-lawrence-aw16-rev-02.jpg"
