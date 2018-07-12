@@ -1,6 +1,7 @@
 ---
 title: Helen Lawrence, SS17
 date: 2018-07-12 07:53:00 Z
+position: 7
 images:
 - "/uploads/helen-lawrence-ss17-rev3-05.jpg"
 - "/uploads/helen-lawrence-ss17-rev3-12.jpg"
