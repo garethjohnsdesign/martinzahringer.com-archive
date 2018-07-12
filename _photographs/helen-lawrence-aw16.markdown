@@ -1,6 +1,6 @@
 ---
 title: Helen Lawrence, AW16
-position: 12
+position: 13
 images:
 - "/uploads/helen-lawrence-aw16-rev-02.jpg"
 - "/uploads/helen-lawrence-aw16-rev-13.jpg"
