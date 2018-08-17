@@ -10,6 +10,6 @@ Unit 20A Stephen House
 1B Darnley Road  
 London E9 6QH  
 
-martinzahringer.com  
+martin.zahringer@gmail.com  
 @martinzahringer  
 07944 339 292  
