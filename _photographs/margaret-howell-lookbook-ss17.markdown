@@ -6,7 +6,7 @@ images:
 - "/uploads/margaret-howell-ss18-rev5-22.jpg"
 - "/uploads/margaret-howell-ss18-rev5-28.jpg"
 - "/uploads/margaret-howell-ss18-rev5-21.jpg"
-- "/uploads/margaret-howell-ss18-rev5-29.jpg"
+- "/uploads/margaret-howell-ss18-rev5-41.jpg"
 - "/uploads/margaret-howell-ss18-rev5-20.jpg"
 - "/uploads/margaret-howell-ss18-rev5-31.jpg"
 - "/uploads/margaret-howell-ss18-rev5-19.jpg"
