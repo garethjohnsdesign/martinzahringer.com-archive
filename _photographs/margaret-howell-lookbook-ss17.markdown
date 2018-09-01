@@ -11,5 +11,13 @@ images:
 - "/uploads/margaret-howell-ss18-rev5-10.jpg"
 - "/uploads/margaret-howell-ss18-rev5-03.jpg"
 - "/uploads/margaret-howell-ss18-rev5-04.jpg"
+- "/uploads/margaret-howell-ss18-rev5-28.jpg"
+- "/uploads/margaret-howell-ss18-rev5-29.jpg"
+- "/uploads/margaret-howell-ss18-rev5-31.jpg"
+- "/uploads/margaret-howell-ss18-rev5-30.jpg"
+- "/uploads/margaret-howell-ss18-rev5-32.jpg"
+- "/uploads/margaret-howell-ss18-rev5-33.jpg"
+- "/uploads/margaret-howell-ss18-rev5-39.jpg"
+- "/uploads/margaret-howell-ss18-rev5-40.jpg"
 ---
 
