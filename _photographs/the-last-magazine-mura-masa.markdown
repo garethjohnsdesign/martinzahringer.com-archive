@@ -1,6 +1,6 @@
 ---
 title: The Last Magazine, Mura Masa
-position: 14
+position: 15
 images:
 - "/uploads/the-last-magazine-mura-masa-rev-01.jpg"
 - "/uploads/the-last-magazine-mura-masa-rev-02.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Self Service, Dior Homme
 date: 2018-07-11 10:03:00 Z
-position: 10
+position: 11
 images:
 - "/uploads/self-service-dior-homme-rev-19.jpg"
 - "/uploads/self-service-dior-homme-rev-16.jpg"

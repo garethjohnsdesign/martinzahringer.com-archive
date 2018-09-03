@@ -1,6 +1,6 @@
 ---
 title: Self Service, Oxfam
-position: 12
+position: 13
 images:
 - "/uploads/self-service-oxfam-rev-21.jpg"
 - "/uploads/self-service-oxfam-rev-01.jpg"
