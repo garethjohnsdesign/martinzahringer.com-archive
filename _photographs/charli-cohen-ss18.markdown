@@ -1,7 +1,7 @@
 ---
 title: Charli Cohen SS18
 date: 2018-07-04 13:50:00 Z
-position: 7
+position: 8
 images:
 - "/uploads/charli-cohen-ss18-rev-23.jpg"
 - "/uploads/charli-cohen-ss18-rev-43.jpg"
