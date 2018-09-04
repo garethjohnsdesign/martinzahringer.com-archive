@@ -1,5 +1,5 @@
 ---
-title: Is in town, Kim Noorda
+title: Is in Town, Kim Noorda
 date: 2018-08-22 10:16:00 Z
 position: 0
 images:
