@@ -1,7 +1,7 @@
 ---
 title: Is In Town Issue 6, August 2018
 date: 2018-09-14 10:09:00 Z
-position: 0
+position: 1
 image: "/uploads/is-in-town-6-kim-noorda.jpg"
 buy-link: https://isintown.bigcartel.com
 ---
