@@ -29,7 +29,8 @@ defaults:
     image: 
     buy-link: 
 url: https://www.martinzahringer.com
-description: London-based photographer
+description: 'Martin Zähringer is a London based photographer/ creative director/
+  publisher '
 permalink: pretty
 exclude:
 - bower.json
