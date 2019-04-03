@@ -1,7 +1,7 @@
 ---
 title: MHL, Lookbook AW19
 date: 2018-09-03 09:54:00 Z
-position: 3
+position: 6
 images:
 - "/uploads/mhl-aw19-21.jpg"
 - "/uploads/mhl-aw19-06.jpg"

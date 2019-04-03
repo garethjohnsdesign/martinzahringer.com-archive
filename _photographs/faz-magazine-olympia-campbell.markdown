@@ -1,6 +1,7 @@
 ---
 title: FAZ Magazine, Olympia Campbell
 date: 2019-04-03 08:37:00 Z
+position: 0
 images:
 - "/uploads/faz-magazine-olympia-campbell-01.jpg"
 - "/uploads/faz-magazine-olympia-campbell-09.jpg"
