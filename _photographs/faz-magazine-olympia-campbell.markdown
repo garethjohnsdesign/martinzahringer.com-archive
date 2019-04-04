@@ -11,7 +11,5 @@ images:
 - "/uploads/faz-magazine-olympia-campbell-04.jpg"
 - "/uploads/faz-magazine-olympia-campbell-02.jpg"
 - "/uploads/faz-magazine-olympia-campbell-03.jpg"
-- 
-- 
 ---
 
