@@ -8,7 +8,7 @@ layout: contact
 Martin Zähringer  
 Unit 20A Stephen House  
 1B Darnley Road  
-London E9 6QH  
+London E9 6QH.  
 
 martin.zahringer@gmail.com  
 @martinzahringer  
