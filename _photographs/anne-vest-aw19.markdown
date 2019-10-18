@@ -1,7 +1,7 @@
 ---
 title: Anne Vest AW19
 date: 2019-02-06 11:50:00 Z
-position: 1
+position: 3
 images:
 - "/uploads/anne-vest-aw19-04.jpg"
 - "/uploads/anne-vest-aw19-01.jpg"
