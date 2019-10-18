@@ -1,6 +1,6 @@
 ---
 title: Is in Town, Danielle Lashley
-position: 9
+position: 11
 images:
 - "/uploads/is-in-town-danielle-lashley-rev-07.jpg"
 - "/uploads/is-in-town-danielle-lashley-rev-02.jpg"

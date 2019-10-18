@@ -1,6 +1,7 @@
 ---
 title: Is In Town, She's holding a...
 date: 2019-08-29 12:32:00 Z
+position: 2
 images:
 - "/uploads/isintown-new-faces-32.jpg"
 - "/uploads/isintown-new-faces-21.jpg"

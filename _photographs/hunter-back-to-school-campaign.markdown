@@ -1,6 +1,7 @@
 ---
 title: Hunter, Back to School Campaign
 date: 2019-10-18 12:07:00 Z
+position: 1
 images:
 - "/uploads/Hunter-AW19-1.jpg"
 - "/uploads/Hunter-AW19-3.jpg"
