@@ -1,7 +1,7 @@
 ---
 title: Is in Town, Kim Noorda
 date: 2018-08-22 10:16:00 Z
-position: 5
+position: 7
 images:
 - "/uploads/kim-noorda-is-in-town-rev-17.jpg"
 - "/uploads/kim-noorda-is-in-town-rev-14.jpg"
