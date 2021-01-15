@@ -1,6 +1,7 @@
 ---
 title: Hunter Boots, Summer 20
 date: 2021-01-15 11:00:00 Z
+position: 1
 images:
 - "/uploads/hunter-summer-01.jpg"
 - "/uploads/hunter-summer-02.jpg"

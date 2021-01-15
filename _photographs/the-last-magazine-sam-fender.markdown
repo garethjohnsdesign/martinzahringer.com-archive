@@ -1,7 +1,7 @@
 ---
 title: The Last Magazine, Sam Fender
 date: 2018-08-24 16:40:00 Z
-position: 8
+position: 9
 images:
 - "/uploads/the-last-magazine-sam-fender-03.jpg"
 - "/uploads/the-last-magazine-sam-fender-01.jpg"

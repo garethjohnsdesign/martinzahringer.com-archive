@@ -1,7 +1,7 @@
 ---
 title: Margaret Howell, AW19
 date: 2018-09-03 09:42:00 Z
-position: 9
+position: 10
 images:
 - "/uploads/mh-aw19-womens-19.jpg"
 - "/uploads/mh-aw19-womens-12.jpg"
